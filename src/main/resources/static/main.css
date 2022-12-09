@@ -1,0 +1,18 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.chat-message-date {
+    color: gray;
+}
+.chat-message-sender-name {
+    color: #ff4040;
+}
+
+.chat-message-body {
+    color: black;
+}
+
+#chat {
+    height: 400px;
+}
